@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abenezer-alemayehu
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software engineering at AASTU
+- 📫 How to reach me cepheustech9@gmail.com
